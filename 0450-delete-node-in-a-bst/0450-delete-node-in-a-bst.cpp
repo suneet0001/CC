@@ -21,20 +21,15 @@ public:
             root->right = deleteNode(root->right, key);
         }
         else {
-            // Case 1: No left child
             if (root->left == NULL)
                 return root->right;
-            // Case 2: No right child
             if (root->right == NULL)
                 return root->left;
-            // Case 3: Two children
             TreeNode* successor = root->right;
             while (successor->left != NULL) {
                 successor = successor->left;
             }
-            // Replace current value with successor value
             root->val = successor->val;
-            // Delete successor
             root->right = deleteNode(root->right, successor->val);
         }
         return root;
