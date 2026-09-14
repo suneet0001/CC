@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/suneet0001/CC/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suneet0001/CC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/suneet0001/CC/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/suneet0001/CC/tree/master/0700-search-in-a-binary-search-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/suneet0001/CC/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suneet0001/CC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/suneet0001/CC/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/suneet0001/CC/tree/master/0700-search-in-a-binary-search-tree) |
@@ -60,5 +62,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/suneet0001/CC/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suneet0001/CC/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/suneet0001/CC/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
