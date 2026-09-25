@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suneet0001/CC/tree/master/0141-linked-list-cycle) |
+| [0621-task-scheduler](https://github.com/suneet0001/CC/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/suneet0001/CC/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/suneet0001/CC/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/suneet0001/CC/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/suneet0001/CC/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -73,8 +75,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/suneet0001/CC/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/suneet0001/CC/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/suneet0001/CC/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/suneet0001/CC/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/suneet0001/CC/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/suneet0001/CC/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
