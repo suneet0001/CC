@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/suneet0001/CC/tree/master/0506-relative-ranks) |
 | [0904-fruit-into-baskets](https://github.com/suneet0001/CC/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/suneet0001/CC/tree/master/0112-path-sum) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/suneet0001/CC/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/suneet0001/CC/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
