@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suneet0001/CC/tree/master/0004-median-of-two-sorted-arrays) |
 | [0506-relative-ranks](https://github.com/suneet0001/CC/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/suneet0001/CC/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/suneet0001/CC/tree/master/0904-fruit-into-baskets) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suneet0001/CC/tree/master/0004-median-of-two-sorted-arrays) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suneet0001/CC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/suneet0001/CC/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/suneet0001/CC/tree/master/0700-search-in-a-binary-search-tree) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/suneet0001/CC/tree/master/0621-task-scheduler) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suneet0001/CC/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
